@@ -1,0 +1,12 @@
+body {
+	margin: 0px;
+	padding: 0px;
+}
+.container {
+	width: 1000px;
+	margin: 0 auto;
+	position: relative;
+}
+#myCanvas {
+	width: 100%;
+}
